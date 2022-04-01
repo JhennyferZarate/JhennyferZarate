@@ -6,7 +6,8 @@ margin:auto;">
 
 ---
 
-##👩🏻‍💻 About me
+## 👩🏻‍💻 About me
+
 I'm Jhennyfer Zarate Villar, a Software Engineering student at Mayor National University of San Marcos 🇵🇪.
 * I am currently doing internships as Product Manager Intern.
 * I specialize in: 
