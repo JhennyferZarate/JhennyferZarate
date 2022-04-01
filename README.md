@@ -1,13 +1,10 @@
 # Hi! [Jhennyfer Zarate][website] here 👋
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkNmG_-VFdTauzflC1xdiZQ?label=Jhennyfer%20Zarate&logo=YouTube&style=flat-square)](https://www.youtube.com/channel/UCkNmG_-VFdTauzflC1xdiZQ/featured)
 
-
-
 ---
 
 ## 👩🏻‍💻 About me
-<img src="./me.jpg" width="300px" style="display:block;
-margin:auto;">
+
 I'm a Software Engineering student at Mayor National University of San Marcos 🇵🇪.
 * I am currently doing internships as Product Manager Intern.
 * I specialize in: ✅ Project Management, 😊 User Experience, 🧠 Artificial Intelligence and 💻 Front-end Development.
