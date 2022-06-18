@@ -14,8 +14,11 @@ I'm a Software Engineering student at Mayor National University of San Marcos �
     * 🎶 Listen to music
     * 💃🏻 Dance, 👩‍🍳 cook, 📚 read and 📸 take photos
 
+---
+
 ## 🤓 Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhennyferZarate&show_icons=true&theme=synthwave)
+<br>
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhennyferZarate&show_icons=true&theme=synthwave)
 
 ---
