@@ -8,11 +8,14 @@
 I'm a Software Engineering student at Mayor National University of San Marcos 🇵🇪.
 * I am currently doing internships as Product Manager Intern.
 * I specialize in: ✅ Project Management, 😊 User Experience, 🧠 Artificial Intelligence and 💻 Front-end Development.
-* Some time I upload videos to [YouTube][website1] 📷
+* Sometimes I upload videos to [YouTube][website1] 📷
 * Also, I love:
     * 🎇 To go concerts and festivals
     * 🎶 Listen to music
     * 💃🏻 Dance, 👩‍🍳 cook, 📚 read and 📸 take photos
+
+## 🤓 Statistics
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhennyferZarate&theme=radical)]
 
 ---
 
