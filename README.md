@@ -6,7 +6,6 @@
 ## 👩🏻‍💻 About me
 
 I'm a Software Engineering student at Mayor National University of San Marcos 🇵🇪.
-* I am currently doing internships as Product Manager Intern.
 * I specialize in: ✅ Project Management, 😊 User Experience, 🧠 Artificial Intelligence and 💻 Front-end Development.
 * Sometimes I upload videos to [YouTube][website1] 📷
 * Also, I love:
