@@ -6,7 +6,7 @@
 ## 👩🏻‍💻 About me
 
 I'm a Software Engineering student at Mayor National University of San Marcos 🇵🇪.
-* I specialize in: ✅ Project Management, 😊 User Experience, 🧠 Artificial Intelligence and 💻 Front-end Development.
+* I specialize in: Back-end development, Robotic process automation and User Experience.
 * Sometimes I upload videos to [YouTube][website1] 📷
 * Also, I love:
     * 🎇 To go concerts and festivals
@@ -29,9 +29,11 @@ I'm a Software Engineering student at Mayor National University of San Marcos �
 
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+<img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<!--img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /-->
 
 <!--img align="left" alt="GraphQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /-->
 
