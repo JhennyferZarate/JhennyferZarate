@@ -6,7 +6,7 @@
 ## 👩🏻‍💻 About me
 
 I'm a Software Engineering student at Mayor National University of San Marcos 🇵🇪.
-* I specialize in: Back-end development and User Experience.
+* I specialize in: Frontend development and User Experience.
 * Sometimes I upload videos to [YouTube][website1] 📷
 * Also, I love:
     * 🎇 To go concerts and festivals
