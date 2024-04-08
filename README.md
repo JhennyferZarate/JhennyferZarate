@@ -5,8 +5,8 @@
 - 💜 Love reading, dancing casino wheels and making desserts.<br/>
 - 📫 How to reach me <b>jhennyferzarate21@gmail.com</b><br/><br/>
 <div style="display: flex; align: center; align-items: center;">
-  <img style="width: 500px;" src="https://github-readme-stats.vercel.app/api?username=JhennyferZarate&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="JhennyferZarate" />
-  <img style="width: 395px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=JhennyferZarate&theme=radical&show_icons=true&locale=en&layout=compact" alt="JhennyferZarate" /><br/><br/>
+  <img style="width: 340px;" src="https://github-readme-stats.vercel.app/api?username=JhennyferZarate&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="JhennyferZarate" />
+  <img style="width: 265px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=JhennyferZarate&theme=radical&show_icons=true&locale=en&layout=compact" alt="JhennyferZarate" />
 </div>
 
 <h2>📚 Languages and Tools:</h2>
