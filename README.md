@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jhenn! 🌸</h1>
 - 👩🏻‍💻 A passionate <b>Fullstack Developer</b> & <b>Product Manager</b>.<br/>
 - 👩🏻‍🎓 Studied Software Engineering at the National Major University of San Marcos in Lima, Peru.<br/>
-- 💭 Currently learning about User Experience and Cloud Devops.<br/>
+- 💭 Currently learning about Software Development, UX, AI and Cloud Devops.<br/>
 - 💜 Love reading, dancing casino wheels and making desserts.<br/>
 - 📫 How to reach me <b>jhennyferzarate21@gmail.com</b><br/><br/>
 <div style="display: flex; align: center; align-items: center;">
