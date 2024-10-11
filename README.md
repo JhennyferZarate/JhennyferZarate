@@ -14,7 +14,7 @@
 
 <h2>🌐 Social Media</h2>
 - <a href="https://www.linkedin.com/in/jhennyferzarate/">Linkedin:</a> Jhennyfer Zarate<br/>
-- <a href="https://www.instagram.com/jhenny.z/">Instagram:</a> jhenny.z<br/>
+- <a href="https://www.instagram.com/jhenn.z/">Instagram:</a> jhenny.z<br/>
 <br>
 <br>
 <p align="center"><i>Fight for your dreams</i> 🌻</p>
